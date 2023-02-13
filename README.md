@@ -1,3 +1,4 @@
 # Project
-PythonProject 
+PythonProject #summer project
+@LPU
 Sorting Visulizator 
